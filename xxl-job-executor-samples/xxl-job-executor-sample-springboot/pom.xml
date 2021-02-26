@@ -68,6 +68,7 @@
                 </executions>
                 <configuration>
                     <includeSystemScope>true</includeSystemScope>
+                    <mainClass>com.xxl.job.executor.XxlJobExecutorApplication</mainClass>
                 </configuration>
             </plugin>
         </plugins>
